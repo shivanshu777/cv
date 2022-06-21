@@ -1,0 +1,30 @@
+body{
+  background-color: #BEEB9F;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 50%;
+}
+
+h1,h3{
+  color: #66BFBF;
+  font-family: cursive;
+}
+
+.love{
+  background-color: yellow;
+}
+
+.nohate{
+  background-color: red;
+}
+
+h1:hover{
+  background-color: gold;
+}
+
+h3:hover{
+  color: black;
+}
